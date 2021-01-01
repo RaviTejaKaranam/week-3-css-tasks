@@ -1,0 +1,48 @@
+/* positioning left half top equation */
+.letter-d{
+  position: absolute;
+  top:15px;
+  font-family: cursive;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+/* equals to sign */
+.equals-to{
+  position: absolute;
+  top:30px;
+  left: 35px
+}
+/* positioning left half bottom equation */
+.left-lower-d{
+  position: absolute;
+  top:40px;
+  font-family: cursive;
+}
+/* The squared 2 */
+.squared-2{
+  top: -5px;
+  position: absolute;
+}
+/* the letter c */
+.letter-c{
+  position: absolute;
+  top:25px;
+  left: 50px;
+  font-family: cursive;
+}
+/* Right half top letter d */
+.right-letter-d{
+  position: absolute;
+  top:15px;
+  left: 70px;
+  font-family: cursive;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+/* Right half bottom letter d */
+.right-lower-d{
+  position:absolute;
+  top:40px;
+  left:70px;
+  font-family: cursive;
+}

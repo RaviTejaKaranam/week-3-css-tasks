@@ -1,0 +1,6 @@
+div{
+  background-color:cadetblue;
+  position: absolute;
+  right:0px; /*absolute right position */
+  width: 200px;
+}

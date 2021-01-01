@@ -1,0 +1,22 @@
+/* large font design */
+.capitailise{
+  font-size: 70px;
+  font-style: bold;
+}
+/* normal text rules */
+.normal-text{
+  position: absolute;
+  top: 20px;
+  left: 60px;
+  font-style:bold;
+}
+.last-line{
+  position: relative;
+  top: -15px;
+}
+/* container for background color */
+.container {
+  background-color:#eee;
+  width: 220px;
+  height: 100px;
+}

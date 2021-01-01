@@ -1,0 +1,17 @@
+.tooltip{
+  visibility:hidden; /* Initially hidden */
+  position: absolute;
+}
+.container{
+  border: 1px solid black;
+  margin-top: 10px;
+  position: relative;
+}
+/* Tooltip on hover rules */
+.container:hover .tooltip{
+  visibility: visible; /* visible on hover */
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  background-color: #ddd;
+}
