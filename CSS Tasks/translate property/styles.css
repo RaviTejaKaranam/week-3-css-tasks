@@ -1,0 +1,14 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: cadetblue;
+  animation: translate 1s infinite;
+}
+@keyframes translate{
+  from{
+
+  }
+  to{
+    transform: translateX(200%);
+  }
+}
